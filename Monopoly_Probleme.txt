@@ -1,0 +1,7 @@
+Schwierigkeiten:
+
+- Spieler durch Benutzer erzeugen
+
+- Interaktion mit Scanner beim Würfeln
+
+
